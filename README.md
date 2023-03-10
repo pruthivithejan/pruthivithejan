@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/pruthivithejan" target="blank"><img src="https://img.shields.io/twitter/follow/pruthivithejan?logo=twitter&style=for-the-badge" alt="pruthivithejan" /></a> </p>
 
+<a href="https://app.daily.dev/pruthivithejan"><img src="https://api.daily.dev/devcards/08da28709c6049928a8e51614e21d9ca.png?r=kdq" width="400" alt="Pruthivi Thejan's Dev Card"/></a>
+
 - 🔭 I’m currently working on **a Web App for Sinhala-English encyclopedia**
 
 - 🌱 I’m currently learning **Next.JS, Sveltekit & Django**
