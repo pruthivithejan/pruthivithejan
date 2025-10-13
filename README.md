@@ -36,6 +36,7 @@ Years of Experience   Projects          Pieces of Content
 
 Feel free to reach out if you'd like to collaborate on projects or just chat about technology and design!
 [here are my links](https://links.pruthivithejan.me)
+
 ---
 
 ⭐️ From [pruthivithejan](https://github.com/pruthivithejan)
