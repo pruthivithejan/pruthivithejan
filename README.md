@@ -1,4 +1,4 @@
-<img src="https://github.com/pruthivithejan/pruthivithejan.me/blob/main/public/images/image-default.png" alt="Banner"/>
+<!-- <img src="https://github.com/pruthivithejan/pruthivithejan.me/blob/main/public/images/image-default.png" alt="Banner"/> -->
 
 <h1 align="center">Hi 👋, I'm Pruthivi Thejan</h1>
 <h3 align="center">A Designer 🎨 & Developer from Sri Lanka</h3>
@@ -7,12 +7,10 @@
 
 I'm **Pruthivi** *(meaning planet earth 🌍)*
 
-- 🎓 2nd Year Student at **Faculty of Technology, University of Sri Jayewardenepura**
+- 🎓 3rd Year Student at **Faculty of Technology, University of Sri Jayewardenepura**
 - 📚 Pursuing **Bachelor of Information and Communication Technology (BICT Honours)**
-- 💼 **3+ Years** of Experience in Design & Development
-- 🚀 Completed **5+ Projects**
-- ✨ Created **2000+ Pieces of Content**
-- 🎂 22 Years Old
+- 💼 **4+ Years** of Experience in Design & Development
+- 🚀 Completed **10+ Projects**
 
 ## 🛠️ Skills & Technologies
 
@@ -24,22 +22,20 @@ I'm **Pruthivi** *(meaning planet earth 🌍)*
 ## 📊 Stats
 
 ```
-3+                    5+                2000+
+4+                    10+                2000+
 Years of Experience   Projects          Pieces of Content
 ```
 
 ## 🤝 Worked with and Trusted by
 
 - University of Sri Jayewardenepura
-- ICTS (Institute of Computer Technology and Sciences)
-- CSDS (Ceylon School of Design & Sports)
-- Jiaan
-- Touch the Peak
+- ICTS (Information and Communication Technology Society)
+- CSDS (Career Skills Development Society)
 
 ## 📫 Connect with Me
 
 Feel free to reach out if you'd like to collaborate on projects or just chat about technology and design!
-
+[here are my links](https://links.pruthivithejan.me)
 ---
 
 ⭐️ From [pruthivithejan](https://github.com/pruthivithejan)
