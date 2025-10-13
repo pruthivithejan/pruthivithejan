@@ -1,7 +1,7 @@
 <img src="https://github.com/pruthivithejan/pruthivithejan.me/blob/main/public/images/image-default.png" alt="Banner"/>
 
 <h1 align="center">Hi 👋, I'm Pruthivi Thejan</h1>
-<h3 align="center">Designer 🎨 Developer from Sri Lanka</h3>
+<h3 align="center">A Designer 🎨 & Developer from Sri Lanka</h3>
 
 ## 👨‍💻 About Me
 
@@ -11,7 +11,7 @@ I'm **Pruthivi** *(meaning planet earth 🌍)*
 - 📚 Pursuing **Bachelor of Information and Communication Technology (BICT Honours)**
 - 💼 **3+ Years** of Experience in Design & Development
 - 🚀 Completed **5+ Projects**
-- ✨ Created **2000+ Content Creations**
+- ✨ Created **2000+ Pieces of Content**
 - 🎂 22 Years Old
 
 ## 🛠️ Skills & Technologies
@@ -24,8 +24,8 @@ I'm **Pruthivi** *(meaning planet earth 🌍)*
 ## 📊 Stats
 
 ```
-3+                5+              2000+
-Years Experience  Projects        Content Creations
+3+                  5+              2000+
+Years of Experience Projects        Pieces of Content
 ```
 
 ## 🤝 Worked with and Trusted by
