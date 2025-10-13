@@ -24,8 +24,8 @@ I'm **Pruthivi** *(meaning planet earth 🌍)*
 ## 📊 Stats
 
 ```
-3+                  5+              2000+
-Years of Experience Projects        Pieces of Content
+3+                    5+                2000+
+Years of Experience   Projects          Pieces of Content
 ```
 
 ## 🤝 Worked with and Trusted by
