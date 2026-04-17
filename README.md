@@ -12,9 +12,48 @@
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-| ```text<br>┌─[ ABOUT_ME ]──────────────────────┐<br>│ Name: Pruthivi (planet earth 🌍)   │<br>│ Role: Designer & Developer         │<br>│ Year: 3rd Year Student             │<br>│ Uni : University of Sri Jayewardenepura │<br>│ Degree: BICT (Hons)                │<br>└────────────────────────────────────┘<br>``` | ```text<br>┌─[ STATS ]─────────────────────────┐<br>│ Experience       : 4+ years        │<br>│ Projects         : 10+             │<br>│ Content Pieces   : 2000+           │<br>└────────────────────────────────────┘<br>``` |
-|---|---|
-| ```text<br>┌─[ SKILLS ]────────────────────────┐<br>│ • Full Stack Development           │<br>│ • UI/UX Design                     │<br>│ • Mobile & Web Development         │<br>│ • Content Creation                 │<br>└────────────────────────────────────┘<br>``` | ```text<br>┌─[ TRUSTED_BY ]────────────────────┐<br>│ • University of Sri Jayewardenepura│<br>│ • ICTS                             │<br>│ • CSDS                             │<br>└────────────────────────────────────┘<br>``` |
+<table>
+  <tr>
+    <td>
+      <pre>┌─[ ABOUT_ME ]──────────────────────────────┐
+│ Name  : Pruthivi (planet earth 🌍)         │
+│ Role  : Designer & Developer               │
+│ Year  : 3rd Year Student                   │
+│ Uni   : University of Sri Jayewardenepura  │
+│ Degree: BICT (Hons)                        │
+└────────────────────────────────────────────┘</pre>
+    </td>
+    <td>
+      <pre>┌─[ STATS ]─────────────────────────────────┐
+│ Experience     : 4+ years                 │
+│ Projects       : 10+                      │
+│ Content Pieces : 2000+                    │
+│ Focus          : Design + Development     │
+│ Status         : Open to collaboration    │
+└────────────────────────────────────────────┘</pre>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <pre>┌─[ SKILLS ]────────────────────────────────┐
+│ • Full Stack Development                  │
+│ • UI/UX Design                            │
+│ • Mobile & Web Development                │
+│ • Content Creation                        │
+│ • Product Thinking                        │
+└────────────────────────────────────────────┘</pre>
+    </td>
+    <td>
+      <pre>┌─[ TRUSTED_BY ]────────────────────────────┐
+│ • University of Sri Jayewardenepura       │
+│ • ICTS                                    │
+│ • CSDS                                    │
+│ • Student & Community Networks            │
+│ • Project Collaborators                   │
+└────────────────────────────────────────────┘</pre>
+    </td>
+  </tr>
+</table>
 
 ```text
 ┌─[ CONNECT ]───────────────────────────────────────────────────────────────────┐
