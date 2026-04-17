@@ -1,42 +1,26 @@
-<!-- <img src="https://github.com/pruthivithejan/pruthivithejan.me/blob/main/public/images/image-default.png" alt="Banner"/> -->
-
-<h1 align="center">Hi 👋, I'm Pruthivi Thejan</h1>
-<h3 align="center">A Designer 🎨 & Developer from Sri Lanka</h3>
-
-## 👨‍💻 About Me
-
-I'm **Pruthivi** *(meaning planet earth 🌍)*
-
-- 🎓 3rd Year Student at **Faculty of Technology, University of Sri Jayewardenepura**
-- 📚 Pursuing **Bachelor of Information and Communication Technology (BICT Honours)**
-- 💼 **4+ Years** of Experience in Design & Development
-- 🚀 Completed **10+ Projects**
-
-## 🛠️ Skills & Technologies
-
-- 💻 Full Stack Development
-- 🎨 UI/UX Design
-- 📱 Mobile & Web Development
-- 🖼️ Content Creation
-
-## 📊 Stats
-
-```
-4+                    10+                2000+
-Years of Experience   Projects          Pieces of Content
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ $ whoami                                                                     │
+│                                                                              │
+│  ____            _   _     _       _   _____ _          _                    │
+│ |  _ \ _ __ _   _| |_| |__ (_)_   _(_) |_   _| |__   ___(_) __ _ _ __        │
+│ | |_) | '__| | | | __| '_ \| \ \ / / |   | | | '_ \ / _ \ |/ _` | '_ \       │
+│ |  __/| |  | |_| | |_| | | | |\ V /| |   | | | | | |  __/ | (_| | | | |      │
+│ |_|   |_|   \__,_|\__|_| |_|_| \_/ |_|   |_| |_| |_|\___|_|\__,_|_| |_|      │
+│                                                                              │
+│ Designer 🎨 + Developer 💻 from Sri Lanka 🇱🇰                                  │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-## 🤝 Worked with and Trusted by
+| ```text<br>┌─[ ABOUT_ME ]──────────────────────┐<br>│ Name: Pruthivi (planet earth 🌍)   │<br>│ Role: Designer & Developer         │<br>│ Year: 3rd Year Student             │<br>│ Uni : University of Sri Jayewardenepura │<br>│ Degree: BICT (Hons)                │<br>└────────────────────────────────────┘<br>``` | ```text<br>┌─[ STATS ]─────────────────────────┐<br>│ Experience       : 4+ years        │<br>│ Projects         : 10+             │<br>│ Content Pieces   : 2000+           │<br>└────────────────────────────────────┘<br>``` |
+|---|---|
+| ```text<br>┌─[ SKILLS ]────────────────────────┐<br>│ • Full Stack Development           │<br>│ • UI/UX Design                     │<br>│ • Mobile & Web Development         │<br>│ • Content Creation                 │<br>└────────────────────────────────────┘<br>``` | ```text<br>┌─[ TRUSTED_BY ]────────────────────┐<br>│ • University of Sri Jayewardenepura│<br>│ • ICTS                             │<br>│ • CSDS                             │<br>└────────────────────────────────────┘<br>``` |
 
-- University of Sri Jayewardenepura
-- ICTS (Information and Communication Technology Society)
-- CSDS (Career Skills Development Society)
-
-## 📫 Connect with Me
-
-Feel free to reach out if you'd like to collaborate on projects or just chat about technology and design!
-[here are my links](https://links.pruthivithejan.me)
-
----
+```text
+┌─[ CONNECT ]───────────────────────────────────────────────────────────────────┐
+│ Let's collaborate on tech + design projects.                                 │
+│ Links: https://links.pruthivithejan.me                                       │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
 
 ⭐️ From [pruthivithejan](https://github.com/pruthivithejan)
