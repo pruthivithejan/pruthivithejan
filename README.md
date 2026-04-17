@@ -16,7 +16,7 @@
   <tr>
     <td>
       <pre>┌─[ ABOUT ]─────────────────────────────────┐
-│ Name            : Pruthivi (planet earth)    │
+│ Name            : Pruthivi (planet earth 🌍)  │
 │ Role            : Designer & Developer      │
 │ Year            : 3rd Year Student          │
 │ University      : Sri Jayewardenepura       │
@@ -46,8 +46,8 @@
     <td>
       <pre>┌─[ AFFILIATIONS ]──────────────────────────┐
 │ • University of Sri Jayewardenepura       │
-│ • ICTS                                    │
-│ • CSDS                                    │
+│ • ICTS (Info & Comm Tech Society)        │
+│ • CSDS (Career Skills Dev. Society)      │
 │ • Student & Community Networks            │
 │ • Project Collaborators                   │
 └────────────────────────────────────────────┘</pre>
