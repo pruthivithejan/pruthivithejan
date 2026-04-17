@@ -1,67 +1,55 @@
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ $ whoami                                                                     │
-│                                                                              │
-│  ____            _   _     _       _   _____ _          _                    │
-│ |  _ \ _ __ _   _| |_| |__ (_)_   _(_) |_   _| |__   ___(_) __ _ _ __        │
-│ | |_) | '__| | | | __| '_ \| \ \ / / |   | | | '_ \ / _ \ |/ _` | '_ \       │
-│ |  __/| |  | |_| | |_| | | | |\ V /| |   | | | | | |  __/ | (_| | | | |      │
-│ |_|   |_|   \__,_|\__|_| |_|_| \_/ |_|   |_| |_| |_|\___|_|\__,_|_| |_|      │
-│                                                                              │
-│ Designer 🎨 + Developer 💻 from Sri Lanka 🇱🇰                                  │
-└──────────────────────────────────────────────────────────────────────────────┘
+<!-- Terminal-style GitHub Profile README -->
+<!-- paste this into pruthivithejan/pruthivithejan/README.md -->
+
 ```
+  ____           _   _     _       _   _____ _          _
+ |  _ \ _ __ _  _| |_| |__ (_)_   _(_) |_   _| |__   ___(_) __ _ _ __
+ | |_) | '__| || | __| '_ \| \ \ / / |   | | | '_ \ / _ \ |/ _` | '_ \
+ |  __/| |  | || | |_| | | | |\ V /| |   | | | | | |  __/ | (_| | | | |
+ |_|   |_|   \__,\__|_| |_|_| \_/ |_|   |_| |_| |_|\___|_|\__,_|_| |_|
+```
+
+```
+┌─[ ABOUT ]─────────────────────────────────────┐   ┌─[ AFFILIATIONS ]───────────────────────────────┐
+│ name       : Pruthivi Thejan                  │   │ → Creative Software                           │
+│ role       : SE Intern @ Creative Software    │   │     Software Engineering Intern               │
+│ education  : BICT Hons · Yr 4 · USJ           │   │ → ICTS                                        │
+│ location   : Colombo, Sri Lanka               │   │     Information & Communication Tech Society  │
+│ status     : open to collaboration            │   │ → CSDS                                        │
+└───────────────────────────────────────────────┘   │     Career Skills Development Society         │
+                                                     └───────────────────────────────────────────────┘
+```
+
+<br/>
 
 <table>
-  <tr>
-    <td>
-      <pre>┌─[ ABOUT ]─────────────────────────────────┐
-│ Name            : Pruthivi (planet earth 🌍)  │
-│ Role            : Designer & Developer      │
-│ Year            : 3rd Year Student          │
-│ University      : Sri Jayewardenepura       │
-│ Degree          : BICT (Hons)               │
-└────────────────────────────────────────────┘</pre>
-    </td>
-    <td>
-      <pre>┌─[ STATS ]─────────────────────────────────┐
-│ Experience     : 4+ years                 │
-│ Projects       : 10+                      │
-│ Content Pieces : 2000+                    │
-│ Focus          : Design + Development     │
-│ Status         : Open to collaboration    │
-└────────────────────────────────────────────┘</pre>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <pre>┌─[ SKILLS ]────────────────────────────────┐
-│ • Full Stack Development                  │
-│ • UI/UX Design                            │
-│ • Mobile & Web Development                │
-│ • Content Creation                        │
-│ • Product Thinking                        │
-└────────────────────────────────────────────┘</pre>
-    </td>
-    <td>
-      <pre>┌─[ AFFILIATIONS ]──────────────────────────┐
-│ • University of Sri Jayewardenepura       │
-│ • ICTS (Information and Communication     │
-│   Technology Society)                     │
-│ • CSDS (Career Skills Development         │
-│   Society)                                │
-│ • Student & Community Networks            │
-│ • Project Collaborators                   │
-└────────────────────────────────────────────┘</pre>
-    </td>
-  </tr>
+<tr>
+<td>
+
+### `$ github --languages`
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+
+</td>
+</tr>
 </table>
 
-```text
-┌─[ CONNECT ]───────────────────────────────────────────────────────────────────┐
-│ Let's collaborate on tech + design projects.                                 │
-│ Links: https://links.pruthivithejan.me                                       │
-└───────────────────────────────────────────────────────────────────────────────┘
+<br/>
+
+```
+┌─[ ACHIEVEMENTS ]──────────────────────────────────────────┐
+│  YOLO          Pull Shark ×2          Quickdraw           │
+└───────────────────────────────────────────────────────────┘
 ```
 
-⭐️ From [pruthivithejan](https://github.com/pruthivithejan)
+<br/>
+
+```
+┌─[ CONNECT ]──────────────────────────────────────────────────┐
+│  → https://links.pruthivithejan.me                          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+⭐ from [pruthivithejan](https://github.com/pruthivithejan) &nbsp;·&nbsp; Colombo, Sri Lanka &nbsp;·&nbsp; UTC+05:30
