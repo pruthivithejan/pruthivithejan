@@ -46,8 +46,10 @@
     <td>
       <pre>┌─[ AFFILIATIONS ]──────────────────────────┐
 │ • University of Sri Jayewardenepura       │
-│ • ICTS (Info & Comm Tech Society)        │
-│ • CSDS (Career Skills Dev. Society)      │
+│ • ICTS (Information and Communication     │
+│   Technology Society)                     │
+│ • CSDS (Career Skills Development         │
+│   Society)                                │
 │ • Student & Community Networks            │
 │ • Project Collaborators                   │
 └────────────────────────────────────────────┘</pre>
