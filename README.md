@@ -15,12 +15,12 @@
 <table>
   <tr>
     <td>
-      <pre>┌─[ ABOUT_ME ]──────────────────────────────┐
-│ Name  : Pruthivi (planet earth 🌍)         │
-│ Role  : Designer & Developer               │
-│ Year  : 3rd Year Student                   │
-│ Uni   : University of Sri Jayewardenepura  │
-│ Degree: BICT (Hons)                        │
+      <pre>┌─[ ABOUT ]─────────────────────────────────┐
+│ Name            : Pruthivi (planet earth)    │
+│ Role            : Designer & Developer      │
+│ Year            : 3rd Year Student          │
+│ University      : Sri Jayewardenepura       │
+│ Degree          : BICT (Hons)               │
 └────────────────────────────────────────────┘</pre>
     </td>
     <td>
@@ -44,7 +44,7 @@
 └────────────────────────────────────────────┘</pre>
     </td>
     <td>
-      <pre>┌─[ TRUSTED_BY ]────────────────────────────┐
+      <pre>┌─[ AFFILIATIONS ]──────────────────────────┐
 │ • University of Sri Jayewardenepura       │
 │ • ICTS                                    │
 │ • CSDS                                    │
