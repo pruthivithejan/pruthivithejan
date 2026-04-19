@@ -24,23 +24,45 @@
 
 <table>
 <tr>
-<td>
+<td width="50%">
+
+### `$ github --stats`
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pruthivithejan&show_icons=true&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pruthivithejan&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pruthivithejan&show_icons=true&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+</picture>
+
+</td>
+
+<td width="50%">
 
 ### `$ github --languages`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" />
+
+</picture>
 
 </td>
+
 </tr>
 </table>
-
-<br/>
-
-```
-┌─[ ACHIEVEMENTS ]──────────────────────────────────────────┐
-│  YOLO          Pull Shark ×2          Quickdraw           │
-└───────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
