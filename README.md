@@ -1,15 +1,15 @@
 <!-- Terminal-style GitHub Profile README -->
 <!-- paste this into pruthivithejan/pruthivithejan/README.md -->
 
-```
+<pre>
   ____           _   _     _       _   _____ _          _
  |  _ \ _ __ _  _| |_| |__ (_)_   _(_) |_   _| |__   ___(_) __ _ _ __
  | |_) | '__| || | __| '_ \| \ \ / / |   | | | '_ \ / _ \ |/ _` | '_ \
  |  __/| |  | || | |_| | | | |\ V /| |   | | | | | |  __/ | (_| | | | |
  |_|   |_|   \__,\__|_| |_|_| \_/ |_|   |_| |_| |_|\___|_|\__,_|_| |_|
-```
+</pre>
 
-```
+<pre>
 ┌─[ ABOUT ]─────────────────────────────────────┐   ┌─[ AFFILIATIONS ]───────────────────────────────┐
 │ name       : Pruthivi Thejan                  │   │ → Creative Software                           │
 │ role       : SE Intern @ Creative Software    │   │     Software Engineering Intern               │
@@ -18,7 +18,7 @@
 │ status     : open to collaboration            │   │ → CSDS                                        │
 └───────────────────────────────────────────────┘   │     Career Skills Development Society         │
                                                      └───────────────────────────────────────────────┘
-```
+</pre>
 
 <br/>
 
@@ -30,14 +30,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pruthivithejan&show_icons=true&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
+    srcset="https://github-readme-stats-alpha.vercel.app/api?username=pruthivithejan&show_icons=true&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=pruthivithejan&show_icons=true&hide_border=true"
+    srcset="https://github-readme-stats-alpha.vercel.app/api?username=pruthivithejan&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=pruthivithejan&show_icons=true&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=pruthivithejan&show_icons=true&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
 </picture>
 
 </td>
@@ -48,14 +48,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9"
+    srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&hide_border=true"
+    srcset="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=pruthivithejan&layout=compact&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9" />
 
 </picture>
 
@@ -66,11 +66,11 @@
 
 <br/>
 
-```
+<pre>
 ┌─[ CONNECT ]──────────────────────────────────────────────────┐
 │  → https://links.pruthivithejan.me                          │
 └──────────────────────────────────────────────────────────────┘
-```
+</pre>
 
 ---
 
