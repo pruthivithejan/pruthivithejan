@@ -24,5 +24,5 @@
 └────────────────────────────────────────────────────────────┘
 </pre>
 
-⭐ [connect](https://links.pruthivithejan.me) &nbsp;·&nbsp; Colombo, Sri Lanka &nbsp;·&nbsp; UTC+05:30
+[Connect](https://links.pruthivithejan.me) with me &nbsp;·&nbsp; Colombo, Sri Lanka &nbsp;·&nbsp; UTC+05:30
 
