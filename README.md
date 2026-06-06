@@ -11,12 +11,18 @@
 </pre>
 
 <pre>
-┌─[ CONNECT ]──────────────────────────────────────────────────┐
-│  → https://links.pruthivithejan.me                          │
-└──────────────────────────────────────────────────────────────┘
+┌─[ AFFILIATIONS ]───────────────────────────────────────────┐
+│ → Creative Software                                        │
+│     Software Engineering Intern                            │
+│     Feb 2026 - Present                                     │
+│ → ICTS                                                     │
+│     Vice President                                         │
+│     Oct 2025 - Present                                     │
+│ → CSDS                                                     │
+│     Vice President (Innovation and Technology Solutions)   │
+│     Mar 2025 - Jan 2026                                    │
+└────────────────────────────────────────────────────────────┘
 </pre>
 
----
-
-⭐ from [pruthivithejan](https://github.com/pruthivithejan) &nbsp;·&nbsp; Colombo, Sri Lanka &nbsp;·&nbsp; UTC+05:30
+⭐ [connect](https://links.pruthivithejan.me) &nbsp;·&nbsp; Colombo, Sri Lanka &nbsp;·&nbsp; UTC+05:30
 
