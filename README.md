@@ -14,7 +14,7 @@
 ┌─[ AFFILIATIONS ]───────────────────────────────────────────┐
 │ → Creative Software                                        │
 │     Software Engineering Intern                            │
-│     Feb 2026 - Present                                     │
+│     Feb 2026 - Sep 2026                                    │
 │ → ICTS                                                     │
 │     Vice President                                         │
 │     Oct 2025 - Present                                     │
