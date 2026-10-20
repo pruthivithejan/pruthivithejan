@@ -1,14 +1,7 @@
 <!-- Terminal-style GitHub Profile README -->
 <!-- paste this into pruthivithejan/pruthivithejan/README.md -->
 
-<pre>
-  ____             _   _     _       _   _____ _           _             
- |  _ \ _ __ _   _| |_| |__ (_)_   _(_) |_   _| |__   ___ (_) __ _ _ __  
- | |_) | '__| | | | __| '_ \| \ \ / / |   | | | '_ \ / _ \| |/ _` | '_ \ 
- |  __/| |  | |_| | |_| | | | |\ V /| |   | | | | | |  __/| | (_| | | | |
- |_|   |_|   \__,_|\__|_| |_|_| \_/ |_|   |_| |_| |_|\___|/ |\__,_|_| |_|
-                                                        |__/             
-</pre>
+<img src="https://github.com/pruthivithejan/pruthivithejan.me/blob/main/public/og-image.png" alt="Banner"/>
 
 <pre>
 ┌─[ AFFILIATIONS ]───────────────────────────────────────────┐
